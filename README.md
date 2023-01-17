@@ -1,2 +1,2 @@
 # Web-scrapping
-for paper
+news scrapping FIFA World Cup 2022
